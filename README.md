@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sudipsarker14/sudipsarker14/blob/main/Sudip_Banner.png)
 <h1 align="center">Hi 👋, I'm Sudip Sarker</h1>
 <h3 align="center">A passionate flutter developer and machine learning expert</h3>
 
