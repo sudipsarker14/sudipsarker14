@@ -1,6 +1,6 @@
-![logo](https://github.com/sudipsarker14/sudipsarker14/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Sudip Sarker</h1>
-<h3 align="center">A passionate flutter developer and machine learning expert</h3>
+![logo](https://github.com/sudipsarker14/sudipsarker14/blob/main/Banner_Two.png)
+<h1 align="center">Hi, I'm Sudip Sarker</h1>
+<h3 align="center">a dedicated computer science student</h3>
 
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [flutter E-Commerce app project](https://github.com/sudipsarker14/sdp_e_commerce)
 
-- 🌱 I’m currently learning **Flutter, Python & Machine learning**
+- 🌱 I’m currently learning **Flutter, Python & Machine learning, Java**
 
 - 👨‍💻 All of my projects are available at [https://sudipsarker14.github.io/](https://sudipsarker14.github.io/)
 
