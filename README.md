@@ -29,3 +29,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudipsarker14&show_icons=true&locale=en" alt="sudipsarker14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipsarker14&" alt="sudipsarker14" /></p>
+
+
+<table>
+<tobdy>
+<tr>	
+<th>Github Stats</th><th>Github Streaks</th>
+</tr>
+<tr>
+<td>
+
+<img height="180em" src="https://github-readme-stats-sudipsarker14.vercel.app/api?username=sudipsarker14&show_icons=true&hide_border=true&&count_private=false&include_all_commits=false&theme=blueberry" />
+</td>
+<td >
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipsarker14&hide_border=true&theme=blueberry" />
+</td>
+</tr>
+</tbody>
+</table>
+<div align="center">
+<img height="180em" src="https://github-readme-stats-sudipsarker14.vercel.app/api/top-langs/?username=sudipsarker14&exclude_repo=cv,IIT-Kharagpur,&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=blueberry&hide=html,tex,css,scss,jupyter%20notebook"/>
+</div>
